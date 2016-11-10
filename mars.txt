@@ -1,2 +1,3 @@
 Some text about mars
+more information about git
 
